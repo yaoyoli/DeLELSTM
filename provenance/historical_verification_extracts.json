@@ -1,0 +1,110 @@
+[
+  {
+    "dataset": "Exchange",
+    "historical_record_sha256": "f6374575136ee6d7fb33335eee4050519d5f2f6c9b930d178e60624868cfebc7",
+    "verification_scope": "Selected fields from historical verification; full stream audit was not repeated for publication.",
+    "pass": true,
+    "counts": {
+      "model_initializations": 25,
+      "optimizer_creations": 25,
+      "training_batches": 330000,
+      "validation_batches": 60000,
+      "test_batches": 125,
+      "forwards": 390125,
+      "losses": 330000,
+      "backwards": 330000,
+      "optimizer_step_attempts": 330000,
+      "optimizer_step_successes": 330000,
+      "epochs_completed": 7500,
+      "models_completed": 25
+    },
+    "epochs_verified": 7500,
+    "checkpoint_selection_events_verified": 1686,
+    "all_training_updates_stream_verified": 330000,
+    "all_natural_forwards_verified": 390125,
+    "max_Delelstm_coefficient_max_abs": 1297339264.0,
+    "solver_profiled_samples": 125,
+    "Delelstm_natural_forwards": 78025,
+    "solver_event_totals": {
+      "high_level_inv": 3500,
+      "internal_inv_ex": 3500,
+      "pinv": 0
+    },
+    "unsampled_solver_paths": "UNVERIFIED; no inv-only claim",
+    "all5_repetition_aggregations_exact": true,
+    "postflight_non_interference_pass": true,
+    "overall_numerical_stability": "UNRESOLVED"
+  },
+  {
+    "dataset": "Electricity",
+    "historical_record_sha256": "42512ad67a5dcbb474975e8935f8edf843b48f913f7741daed58121adceb8c68",
+    "verification_scope": "Selected fields from historical verification; full stream audit was not repeated for publication.",
+    "pass": true,
+    "counts": {
+      "model_initializations": 25,
+      "optimizer_creations": 25,
+      "training_batches": 87500,
+      "validation_batches": 17500,
+      "test_batches": 25,
+      "forwards": 105025,
+      "losses": 87500,
+      "backwards": 87500,
+      "optimizer_step_attempts": 87500,
+      "optimizer_step_successes": 87500,
+      "epochs_completed": 8750,
+      "models_completed": 25
+    },
+    "epochs_verified": 8750,
+    "checkpoint_selection_events_verified": 3372,
+    "all_training_updates_stream_verified": 87500,
+    "all_natural_forwards_verified": 105025,
+    "max_Delelstm_coefficient_max_abs": 47810938404864.0,
+    "solver_profiled_samples": 145,
+    "Delelstm_natural_forwards": 21005,
+    "solver_event_totals": {
+      "high_level_inv": 3190,
+      "internal_inv_ex": 3190,
+      "pinv": 5
+    },
+    "unsampled_solver_paths": "UNVERIFIED; no inv-only claim",
+    "all5_repetition_aggregations_exact": true,
+    "postflight_non_interference_pass": true,
+    "overall_numerical_stability": "UNRESOLVED"
+  },
+  {
+    "dataset": "PM2.5",
+    "historical_record_sha256": "8f191b72902ce8d5c594a669cac265c946aa7f9e2b05f880ba7806f14909523f",
+    "verification_scope": "Selected fields from historical verification; full stream audit was not repeated for publication.",
+    "pass": true,
+    "counts": {
+      "model_initializations": 25,
+      "optimizer_creations": 25,
+      "training_batches": 315000,
+      "validation_batches": 60000,
+      "test_batches": 125,
+      "forwards": 375125,
+      "losses": 315000,
+      "backwards": 315000,
+      "optimizer_step_attempts": 315000,
+      "optimizer_step_successes": 315000,
+      "epochs_completed": 7500,
+      "models_completed": 25
+    },
+    "epochs_verified": 7500,
+    "checkpoint_selection_events_verified": 1117,
+    "all_training_updates_stream_verified": 315000,
+    "all_natural_forwards_verified": 375125,
+    "max_Delelstm_coefficient_max_abs": 298175353061376.0,
+    "solver_profiled_samples": 125,
+    "Delelstm_natural_forwards": 75025,
+    "solver_event_totals": {
+      "high_level_inv": 2750,
+      "internal_inv_ex": 2750,
+      "pinv": 5
+    },
+    "unsampled_solver_paths": "UNVERIFIED; no inv-only claim",
+    "all5_repetition_aggregations_exact": true,
+    "postflight_non_interference_pass": true,
+    "overall_numerical_stability": "UNRESOLVED"
+  }
+]

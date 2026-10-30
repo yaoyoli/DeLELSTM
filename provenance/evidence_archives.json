@@ -1,0 +1,26 @@
+[
+  {
+    "dataset": "Exchange",
+    "source_run_id": "stage3a-attempt02",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/stage3a_attempt02_evidence.zip",
+    "bytes": 465776180,
+    "sha256": "b52aab28b7d518f30f23401089f1f15e8de03636f0a426a5848dd0453549df32",
+    "uploaded": false
+  },
+  {
+    "dataset": "Electricity",
+    "source_run_id": "stage3b-electricity-run-01",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/stage3b_electricity_reviewed_evidence.zip",
+    "bytes": 155100563,
+    "sha256": "d4483dcc892106b924dca47dd7a5ae8841edf10a583fceaa4baf29c3278ff5cf",
+    "uploaded": false
+  },
+  {
+    "dataset": "PM2.5",
+    "source_run_id": "stage3b-pm25-run-01",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/stage3b_pm25_reviewed_evidence.zip",
+    "bytes": 445688271,
+    "sha256": "183076637d766f088b52c41fa0cf20ea4a0853ff337654dcc871c3f9a9199848",
+    "uploaded": false
+  }
+]

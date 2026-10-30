@@ -1,0 +1,170 @@
+{
+  "upstream_repository": "https://github.com/wangcq01/DeLELSTM",
+  "upstream_commit": "b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9",
+  "local_frozen_commit": "95ff20de5a2dea627c854e35a00f304c838fff12",
+  "local_frozen_branch": "track-a-source-faithful",
+  "local_commit_uploaded": false,
+  "only_local_commit_change": "Exchange.py data_path constant points to the local DATA/Exchange directory.",
+  "files": [
+    {
+      "path": "DATA/Electricity/electric_consumption.csv",
+      "bytes": 1460863,
+      "sha256": "e2896646f5ba4c8c23e886be6aa489ffce6e0e25b25002616ef11b55d52fbdca",
+      "git_blob": "a9bbc8eb1cec45ac5dfe8024c2deda241e90d411",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Electricity/electric_consumption.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/Electricity/newX_train.csv",
+      "bytes": 1565946,
+      "sha256": "3fbc9d3e39d694fea9fd65b2bc317587fadc9c6be2df8ef211473a44357362ed",
+      "git_blob": "9d08a06a4ecff2a31dd1da8edd656af1c35151ff",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Electricity/newX_train.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/Electricity/process_elec.py",
+      "bytes": 2159,
+      "sha256": "d6836ca09d0e3fdaecaa45483018f40b8e774029293ad7b58803977d7f265002",
+      "git_blob": "8d106b53d2c580df887dfd0dc1e48df7d57c9279",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Electricity/process_elec.py",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/Electricity/second_y.csv",
+      "bytes": 268922,
+      "sha256": "d6251d2b8c2f2a6c787e66641528fd4f1950dad2a03a24b709302bc7b5200275",
+      "git_blob": "8a1caa07f530e145e9e143b5f2629e42232dcf15",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Electricity/second_y.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/Exchange/exchange_rate.csv",
+      "bytes": 637857,
+      "sha256": "572ed33d876553288dbec69adb57cb745ae48b9b72b7a85a25305464ce0ca643",
+      "git_blob": "96a88d0cfb4242a830f00029773453a22fece9df",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Exchange/exchange_rate.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/Exchange/newX_train.csv",
+      "bytes": 16771887,
+      "sha256": "c56090e745db7b67d304e195ccce24045d26e511320b139863159ac8829bafed",
+      "git_blob": "0c966400137299c7562905109079d5c8bbeb1d8e",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Exchange/newX_train.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/Exchange/process_exchange.py",
+      "bytes": 2007,
+      "sha256": "9699ad753870db9a77fb8e87d0d8e04e5c5e85d1d5064d71a2d52e53de785d37",
+      "git_blob": "97ebf8b8441ff82a6ace3685272217c861dc0070",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Exchange/process_exchange.py",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/Exchange/second_y.csv",
+      "bytes": 3121307,
+      "sha256": "21419737ba2f0a8b60dcbc3def007b2f0e8f4cbe7b03495cd06a2c2b6df62595",
+      "git_blob": "166fab29c16ac7473397cf041bc270bb6ff5cb7e",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/Exchange/second_y.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/PM2.5/PRSA_data_2010.1.1-2014.12.31.csv",
+      "bytes": 2010494,
+      "sha256": "4127f868775e31b3956522adc0ec75af8937dde6a3896e8beed3a376c6d27f1c",
+      "git_blob": "604d55ea26a305fe2312ffffc157e73315dd007f",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/PM2.5/PRSA_data_2010.1.1-2014.12.31.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/PM2.5/newX_train.csv",
+      "bytes": 2423002,
+      "sha256": "21a8a98fba379a563448d38dabd5aacf4b9cd02446f624d33613cfa61bc4cac1",
+      "git_blob": "832ce0a57398384cfa460021fe03e0b96c8e60d4",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/PM2.5/newX_train.csv",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/PM2.5/process_pm.py",
+      "bytes": 1877,
+      "sha256": "8b20c01962902b57fe64c5abd02669917403739c7835e180f0d86c6594f8db9b",
+      "git_blob": "3a2316790628ea408b5e9c36762e9f9a7b55f2ed",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/PM2.5/process_pm.py",
+      "uploaded": false
+    },
+    {
+      "path": "DATA/PM2.5/second_y.csv",
+      "bytes": 430635,
+      "sha256": "9f4a1e6f42a5b81458a26a3a24bcb50c5d7850b38999f2ea4a7b2674b25bdb5e",
+      "git_blob": "8e5cd30a6804e3df03d974fcd043cb469a2e0f5a",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/DATA/PM2.5/second_y.csv",
+      "uploaded": false
+    },
+    {
+      "path": "Electricity.py",
+      "bytes": 5518,
+      "sha256": "64abd9b195933befe6e1e1749962a65bb2fc7458ddcdf108f6e0905b5b4a8a83",
+      "git_blob": "3367e69e0f1476869ab5b473c84738bedcef2d64",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/Electricity.py",
+      "uploaded": false
+    },
+    {
+      "path": "Exchange.py",
+      "bytes": 5565,
+      "sha256": "b9b567b7edc9c0e932ffddcf8e3378a3427b12919289454bf1ab2f490bf4f1ab",
+      "git_blob": "fb88cc22a3fdc8d8acf14f2e314b039897c83e47",
+      "upstream_url": null,
+      "uploaded": false
+    },
+    {
+      "path": "PM.py",
+      "bytes": 5532,
+      "sha256": "4a0bf11baf088896fee27fe280a2c2e9b41470495835081d80a3bd75e2a37f45",
+      "git_blob": "bc1d451ebed2070babcff969164fc09b01b7bd95",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/PM.py",
+      "uploaded": false
+    },
+    {
+      "path": "README.md",
+      "bytes": 978,
+      "sha256": "67fa0d10891ee149ec81a26ec3d1a055d7b11d1235e8c37938acdf7ca330f73b",
+      "git_blob": "6c308852898735ce5ea959866e54e9daabaa8382",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/README.md",
+      "uploaded": false
+    },
+    {
+      "path": "config.py",
+      "bytes": 3097,
+      "sha256": "12e0a15fd686bec6b6a9c881252015c2b9e94c0fb3bba0bd9545b6917fcc8d6f",
+      "git_blob": "4f08fc428087c901b31fd57ec894d0a196ecad6b",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/config.py",
+      "uploaded": false
+    },
+    {
+      "path": "model_training.py",
+      "bytes": 29339,
+      "sha256": "d99b0200083e8f62ace16e51c495d4cde8f1aa8ca10bace80e5219aaf9da11ce",
+      "git_blob": "f1e2832ce3bb02d540e8a00d14c85a887dfc49ec",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/model_training.py",
+      "uploaded": false
+    },
+    {
+      "path": "networks.py",
+      "bytes": 22657,
+      "sha256": "fb749e779b71846e296ee9c8ac534dd712ae939c58076187284f07e0534ede73",
+      "git_blob": "15c234dbbb0394c14e6cd27dc1fe9855dbcab6b5",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/networks.py",
+      "uploaded": false
+    },
+    {
+      "path": "supplementary_ijcai23.pdf",
+      "bytes": 1006894,
+      "sha256": "3a373290e8380241527cb90b363cda2d5310dd437cc7d63b96feeddc8273d2d9",
+      "git_blob": "7d630369a8e4d5cc69ba9ecb75d4c5d2ffa9ff9e",
+      "upstream_url": "https://github.com/wangcq01/DeLELSTM/blob/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9/supplementary_ijcai23.pdf",
+      "uploaded": false
+    }
+  ]
+}

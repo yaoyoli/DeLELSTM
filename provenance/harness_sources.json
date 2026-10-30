@@ -1,0 +1,266 @@
+[
+  {
+    "release_path": "harness_archive/exchange/observer.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/observer.py",
+    "bytes": 28696,
+    "sha256": "3c6297c1d01d422c1eb4b1516aca4e83b12099b03a8c148d7c9c3380cf98787b",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/scheduler_metadata.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/scheduler_metadata.py",
+    "bytes": 2265,
+    "sha256": "6e26361c0d8581af3ff9a15052286f3b42309c3360b4780a4d025e4c30e520f3",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/formal_harness.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/formal_harness.py",
+    "bytes": 1261,
+    "sha256": "1284eee6d75de4e7c27ef502c5c51fe35be8bd46262f06e3ed47cd6879bdbc89",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/supervisor.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/supervisor.py",
+    "bytes": 3002,
+    "sha256": "7cf9ec88a7098076204dac5d0210fb704296e4b384d158b4c528d629a9fa8aea",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/outer_launcher.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/outer_launcher.py",
+    "bytes": 1863,
+    "sha256": "f55ecba2dfa8fd038ff3223ca0d9657487349bf09ba58168fe2a3da5f1d1f427",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/finalize.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/finalize.py",
+    "bytes": 20945,
+    "sha256": "46f626ba09ef978bab0532dc0f6b358d989170351071e23e64833b6e993d9d7a",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/audit_utils.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/audit_utils.py",
+    "bytes": 4056,
+    "sha256": "f73a952d30fa2683ad003cc7a82055ca59af2d202d01dd73618cb9b7e5e73fea",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/scoped_metadata.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/scoped_metadata.py",
+    "bytes": 3292,
+    "sha256": "cea29f0a07dc5e38abd0f8e16219a738da0098eba3fd57dab7b335c26e5cb4f0",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/git_policy.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/git_policy.py",
+    "bytes": 1434,
+    "sha256": "34479da2601f19d967c63025a2fe37ed7ec90500021a77db323e6c88ece8d5ce",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/exchange/postrun_evidence_verifier.py",
+    "runtime_relative_path": "diagnostics/stage3a/attempt-02/postrun_evidence_verifier.py",
+    "bytes": 11719,
+    "sha256": "53f21f1648694a38dc2f38d92350690bce7d35ee6e2dd375258fa65ed11d4068",
+    "role": "postrun_verifier",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/observer.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/observer.py",
+    "bytes": 27201,
+    "sha256": "08c4dd13056e60c0ea8ab1bfee9bcb79608c9e4881615e156ffeda12d5422fe4",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/entry_adapter.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/entry_adapter.py",
+    "bytes": 2156,
+    "sha256": "a16dbcffa4f0509acb94cb343edf816c241f5e6115144ee1e51e4a48f9bde351",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/scheduler_metadata.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/scheduler_metadata.py",
+    "bytes": 2265,
+    "sha256": "6e26361c0d8581af3ff9a15052286f3b42309c3360b4780a4d025e4c30e520f3",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/formal_harness.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/formal_harness.py",
+    "bytes": 2109,
+    "sha256": "19d47fafb530c5e80db6a1b4dccb47fda26ede55795bba36e5042928ce96efe3",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/supervisor.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/supervisor.py",
+    "bytes": 3244,
+    "sha256": "2d4046b7ba50ceb03888c73c19053f6dea392f08cdc2ea056625c3294fac962f",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/outer_launcher.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/outer_launcher.py",
+    "bytes": 1871,
+    "sha256": "80a87fd53ec29d20d4b668b05cc97c20fa1857893658f6e46ea2e96ee28d8f63",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/finalize.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/finalize.py",
+    "bytes": 18615,
+    "sha256": "4d878bb7fa9381483a2e0a56437e4c85893d3b4ac6cb1875cd734bdde1caaa35",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/audit_utils.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/audit_utils.py",
+    "bytes": 4080,
+    "sha256": "ac3f2157357581a84af8ae05f9ec01655cdc56e7eb50414c3c4c0a5e720039ee",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/scoped_metadata.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/scoped_metadata.py",
+    "bytes": 3292,
+    "sha256": "cea29f0a07dc5e38abd0f8e16219a738da0098eba3fd57dab7b335c26e5cb4f0",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/git_policy.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/git_policy.py",
+    "bytes": 1434,
+    "sha256": "34479da2601f19d967c63025a2fe37ed7ec90500021a77db323e6c88ece8d5ce",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/electricity/postrun_evidence_verifier_v2.py",
+    "runtime_relative_path": "diagnostics/stage3b/electricity/run-01/postrun_evidence_verifier_v2.py",
+    "bytes": 12358,
+    "sha256": "0b980c227bb7398b0091502c8fdc71c4b766ad956dfca132229ee5e001103d88",
+    "role": "postrun_verifier",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/observer.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/observer.py",
+    "bytes": 27207,
+    "sha256": "fe2648f4303f568638a400556e47dee7dc2d25e07beee8808d7b195137da1261",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/entry_adapter.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/entry_adapter.py",
+    "bytes": 2872,
+    "sha256": "b991916434f7625a2588c0b5a91d4c9e174d942f25fd50ba32fcc551f0754929",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/formal_harness.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/formal_harness.py",
+    "bytes": 2159,
+    "sha256": "85763d87c9f7cb4c746b985bca9061e301fc95f0d34b706c62486dfa539a3cac",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/supervisor.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/supervisor.py",
+    "bytes": 3229,
+    "sha256": "1867e5cbfda26c7903bc7c7e3b2271d1a664650b2168fcc8f0167b9ef55a2885",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/outer_launcher.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/outer_launcher.py",
+    "bytes": 1864,
+    "sha256": "f63f1bf2c1376a9f5e71f1f86b7916c562be362cc0283c7128d0a8114d563e1a",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/launch_once.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/launch_once.py",
+    "bytes": 2484,
+    "sha256": "46fcd8f8caf16a61e77769430b36b9fb3ead160eae3729d646f450a239d628ee",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/finalize.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/finalize.py",
+    "bytes": 20774,
+    "sha256": "ecb85f5e42a5d9d4b9a7165fefbb1c7bd2f758eeff8701e0c235c9b3aad31e28",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/audit_utils.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/audit_utils.py",
+    "bytes": 4059,
+    "sha256": "6b0775dea0cde489c9d4a8679ccc2616732104ab86ddc30787895aed3960c718",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/scoped_metadata.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/scoped_metadata.py",
+    "bytes": 3292,
+    "sha256": "cea29f0a07dc5e38abd0f8e16219a738da0098eba3fd57dab7b335c26e5cb4f0",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/git_policy.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/git_policy.py",
+    "bytes": 1434,
+    "sha256": "34479da2601f19d967c63025a2fe37ed7ec90500021a77db323e6c88ece8d5ce",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/scheduler_metadata.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/scheduler_metadata.py",
+    "bytes": 2265,
+    "sha256": "6e26361c0d8581af3ff9a15052286f3b42309c3360b4780a4d025e4c30e520f3",
+    "role": "executed_reviewed_harness",
+    "byte_identical_copy": true
+  },
+  {
+    "release_path": "harness_archive/pm25/postrun_evidence_verifier_v2.py",
+    "runtime_relative_path": "diagnostics/stage3b/pm25/run-01/postrun_evidence_verifier_v2.py",
+    "bytes": 12602,
+    "sha256": "fb5861bb679d10a24299b4cfe39e9b7281eaae45284bf77d050b137eee57fa30",
+    "role": "postrun_verifier",
+    "byte_identical_copy": true
+  }
+]

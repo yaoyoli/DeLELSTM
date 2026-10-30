@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "scope": "All release files except this manifest; Git commit identity seals the manifest.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 88,
+      "sha256": "87b749db48730681d0a1cc3b545052f278270c9b03e6e7f3e0cfed1f29baa6d3"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 175,
+      "sha256": "b9e7d7b5d21985811f49bd97a8c6b9b9f9983bc1f79aa7265d395cf5a50c7980"
+    },
+    {
+      "path": "CODE_RIGHTS_AND_ATTRIBUTION.md",
+      "bytes": 2215,
+      "sha256": "46197658a8afb1e172d90d64ad8a3e93fbbadd37af6c2d2b8093dedec7acde5b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2777,
+      "sha256": "cefdae09a2db15fbf586e892554ed06a3841163e9e46f77d7100263eeb816d3c"
+    },
+    {
+      "path": "commands/historical_formal_commands.json",
+      "bytes": 3344,
+      "sha256": "d9e586ec02d8bb810a3dcc2fa8b7aff9449e255d7cfba0f2d4a16c9d2e0bcd40"
+    },
+    {
+      "path": "docs/GROUP_HANDOFF_ZH.md",
+      "bytes": 1909,
+      "sha256": "e6b5fa00df014a304521c0a83c19098aa9df58d770cf1fa66be6ab9959e6f1ca"
+    },
+    {
+      "path": "docs/METHODOLOGY.md",
+      "bytes": 3346,
+      "sha256": "9e06a6b63edf956aba4bf47dac4de37a5d0eff983b9cebd200443dbf5079c747"
+    },
+    {
+      "path": "docs/PUBLICATION_SCOPE.md",
+      "bytes": 1470,
+      "sha256": "0c6316a6a0a41f9d5caedd22d0ed5b00675c6fb2612219c2f150b31bf12ca619"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 1321,
+      "sha256": "0e3c72adb978d10f2d7f8c534719f4a0ee95ded9f00344a1a5b9c6f24475a636"
+    },
+    {
+      "path": "docs/REPRODUCTION.md",
+      "bytes": 3035,
+      "sha256": "e40b282e594550713316ada228d140f9eecb2270f366353396a0eebe66ffcd0e"
+    },
+    {
+      "path": "environment/README.md",
+      "bytes": 1328,
+      "sha256": "04c77adcff197195f11e9277df815a5a66e86b6a3443145789885c1229fd0502"
+    },
+    {
+      "path": "environment/installed_versions.json",
+      "bytes": 734,
+      "sha256": "b9c088be60038f554947e4f4f47e101d01d9dc762429cbadcd33a48cdea0f687"
+    },
+    {
+      "path": "environment/requirements-macos-arm64-cp39.lock.txt",
+      "bytes": 3049,
+      "sha256": "efaea7c2ec9ecae1d90d5eead752c82c43e5b9b7db4252715141911663329ce8"
+    },
+    {
+      "path": "environment/verification_status.json",
+      "bytes": 2485,
+      "sha256": "8afdfabddad8415eed34cfcf35d49ed42e9a284e44ba41c06539a96693b79f85"
+    },
+    {
+      "path": "harness_archive/README.md",
+      "bytes": 1498,
+      "sha256": "2e0eaec42f1f0b64b599529d725af9ee398c11ddf246ac1c1359ecad3ecc6a1a"
+    },
+    {
+      "path": "harness_archive/electricity/audit_utils.py",
+      "bytes": 4080,
+      "sha256": "ac3f2157357581a84af8ae05f9ec01655cdc56e7eb50414c3c4c0a5e720039ee"
+    },
+    {
+      "path": "harness_archive/electricity/entry_adapter.py",
+      "bytes": 2156,
+      "sha256": "a16dbcffa4f0509acb94cb343edf816c241f5e6115144ee1e51e4a48f9bde351"
+    },
+    {
+      "path": "harness_archive/electricity/finalize.py",
+      "bytes": 18615,
+      "sha256": "4d878bb7fa9381483a2e0a56437e4c85893d3b4ac6cb1875cd734bdde1caaa35"
+    },
+    {
+      "path": "harness_archive/electricity/formal_harness.py",
+      "bytes": 2109,
+      "sha256": "19d47fafb530c5e80db6a1b4dccb47fda26ede55795bba36e5042928ce96efe3"
+    },
+    {
+      "path": "harness_archive/electricity/git_policy.py",
+      "bytes": 1434,
+      "sha256": "34479da2601f19d967c63025a2fe37ed7ec90500021a77db323e6c88ece8d5ce"
+    },
+    {
+      "path": "harness_archive/electricity/observer.py",
+      "bytes": 27201,
+      "sha256": "08c4dd13056e60c0ea8ab1bfee9bcb79608c9e4881615e156ffeda12d5422fe4"
+    },
+    {
+      "path": "harness_archive/electricity/outer_launcher.py",
+      "bytes": 1871,
+      "sha256": "80a87fd53ec29d20d4b668b05cc97c20fa1857893658f6e46ea2e96ee28d8f63"
+    },
+    {
+      "path": "harness_archive/electricity/postrun_evidence_verifier_v2.py",
+      "bytes": 12358,
+      "sha256": "0b980c227bb7398b0091502c8fdc71c4b766ad956dfca132229ee5e001103d88"
+    },
+    {
+      "path": "harness_archive/electricity/scheduler_metadata.py",
+      "bytes": 2265,
+      "sha256": "6e26361c0d8581af3ff9a15052286f3b42309c3360b4780a4d025e4c30e520f3"
+    },
+    {
+      "path": "harness_archive/electricity/scoped_metadata.py",
+      "bytes": 3292,
+      "sha256": "cea29f0a07dc5e38abd0f8e16219a738da0098eba3fd57dab7b335c26e5cb4f0"
+    },
+    {
+      "path": "harness_archive/electricity/supervisor.py",
+      "bytes": 3244,
+      "sha256": "2d4046b7ba50ceb03888c73c19053f6dea392f08cdc2ea056625c3294fac962f"
+    },
+    {
+      "path": "harness_archive/exchange/audit_utils.py",
+      "bytes": 4056,
+      "sha256": "f73a952d30fa2683ad003cc7a82055ca59af2d202d01dd73618cb9b7e5e73fea"
+    },
+    {
+      "path": "harness_archive/exchange/finalize.py",
+      "bytes": 20945,
+      "sha256": "46f626ba09ef978bab0532dc0f6b358d989170351071e23e64833b6e993d9d7a"
+    },
+    {
+      "path": "harness_archive/exchange/formal_harness.py",
+      "bytes": 1261,
+      "sha256": "1284eee6d75de4e7c27ef502c5c51fe35be8bd46262f06e3ed47cd6879bdbc89"
+    },
+    {
+      "path": "harness_archive/exchange/git_policy.py",
+      "bytes": 1434,
+      "sha256": "34479da2601f19d967c63025a2fe37ed7ec90500021a77db323e6c88ece8d5ce"
+    },
+    {
+      "path": "harness_archive/exchange/observer.py",
+      "bytes": 28696,
+      "sha256": "3c6297c1d01d422c1eb4b1516aca4e83b12099b03a8c148d7c9c3380cf98787b"
+    },
+    {
+      "path": "harness_archive/exchange/outer_launcher.py",
+      "bytes": 1863,
+      "sha256": "f55ecba2dfa8fd038ff3223ca0d9657487349bf09ba58168fe2a3da5f1d1f427"
+    },
+    {
+      "path": "harness_archive/exchange/postrun_evidence_verifier.py",
+      "bytes": 11719,
+      "sha256": "53f21f1648694a38dc2f38d92350690bce7d35ee6e2dd375258fa65ed11d4068"
+    },
+    {
+      "path": "harness_archive/exchange/scheduler_metadata.py",
+      "bytes": 2265,
+      "sha256": "6e26361c0d8581af3ff9a15052286f3b42309c3360b4780a4d025e4c30e520f3"
+    },
+    {
+      "path": "harness_archive/exchange/scoped_metadata.py",
+      "bytes": 3292,
+      "sha256": "cea29f0a07dc5e38abd0f8e16219a738da0098eba3fd57dab7b335c26e5cb4f0"
+    },
+    {
+      "path": "harness_archive/exchange/supervisor.py",
+      "bytes": 3002,
+      "sha256": "7cf9ec88a7098076204dac5d0210fb704296e4b384d158b4c528d629a9fa8aea"
+    },
+    {
+      "path": "harness_archive/pm25/audit_utils.py",
+      "bytes": 4059,
+      "sha256": "6b0775dea0cde489c9d4a8679ccc2616732104ab86ddc30787895aed3960c718"
+    },
+    {
+      "path": "harness_archive/pm25/entry_adapter.py",
+      "bytes": 2872,
+      "sha256": "b991916434f7625a2588c0b5a91d4c9e174d942f25fd50ba32fcc551f0754929"
+    },
+    {
+      "path": "harness_archive/pm25/finalize.py",
+      "bytes": 20774,
+      "sha256": "ecb85f5e42a5d9d4b9a7165fefbb1c7bd2f758eeff8701e0c235c9b3aad31e28"
+    },
+    {
+      "path": "harness_archive/pm25/formal_harness.py",
+      "bytes": 2159,
+      "sha256": "85763d87c9f7cb4c746b985bca9061e301fc95f0d34b706c62486dfa539a3cac"
+    },
+    {
+      "path": "harness_archive/pm25/git_policy.py",
+      "bytes": 1434,
+      "sha256": "34479da2601f19d967c63025a2fe37ed7ec90500021a77db323e6c88ece8d5ce"
+    },
+    {
+      "path": "harness_archive/pm25/launch_once.py",
+      "bytes": 2484,
+      "sha256": "46fcd8f8caf16a61e77769430b36b9fb3ead160eae3729d646f450a239d628ee"
+    },
+    {
+      "path": "harness_archive/pm25/observer.py",
+      "bytes": 27207,
+      "sha256": "fe2648f4303f568638a400556e47dee7dc2d25e07beee8808d7b195137da1261"
+    },
+    {
+      "path": "harness_archive/pm25/outer_launcher.py",
+      "bytes": 1864,
+      "sha256": "f63f1bf2c1376a9f5e71f1f86b7916c562be362cc0283c7128d0a8114d563e1a"
+    },
+    {
+      "path": "harness_archive/pm25/postrun_evidence_verifier_v2.py",
+      "bytes": 12602,
+      "sha256": "fb5861bb679d10a24299b4cfe39e9b7281eaae45284bf77d050b137eee57fa30"
+    },
+    {
+      "path": "harness_archive/pm25/scheduler_metadata.py",
+      "bytes": 2265,
+      "sha256": "6e26361c0d8581af3ff9a15052286f3b42309c3360b4780a4d025e4c30e520f3"
+    },
+    {
+      "path": "harness_archive/pm25/scoped_metadata.py",
+      "bytes": 3292,
+      "sha256": "cea29f0a07dc5e38abd0f8e16219a738da0098eba3fd57dab7b335c26e5cb4f0"
+    },
+    {
+      "path": "harness_archive/pm25/supervisor.py",
+      "bytes": 3229,
+      "sha256": "1867e5cbfda26c7903bc7c7e3b2271d1a664650b2168fcc8f0167b9ef55a2885"
+    },
+    {
+      "path": "provenance/evidence_archives.json",
+      "bytes": 938,
+      "sha256": "c5f77aad1213394e3bad4bb60defc829225ec0c0e1bda4550dd5562089ccadd4"
+    },
+    {
+      "path": "provenance/frozen_source_index.json",
+      "bytes": 7907,
+      "sha256": "91e5b251f6500d6d2ebd2006ff7ddfe3fb948aa8ad252087952efd7dc3aff8ae"
+    },
+    {
+      "path": "provenance/harness_sources.json",
+      "bytes": 10920,
+      "sha256": "2bae94009ea91c5d59b167f45013b6b54af1afda40a340ea30d936e65f526574"
+    },
+    {
+      "path": "provenance/historical_verification_extracts.json",
+      "bytes": 3944,
+      "sha256": "ab10eb8b3d7ff0775701b2c7e99ce88be0e0bb39b064767741b11c2dfcd957dd"
+    },
+    {
+      "path": "provenance/result_sources.json",
+      "bytes": 59263,
+      "sha256": "aa1db67b0ac90e123377ae4c91eb2173bad4afa859c8c3199d526b0418e31389"
+    },
+    {
+      "path": "provenance/run_summaries.json",
+      "bytes": 2723,
+      "sha256": "57eda7fb0cde10e0c11404cb11f84b323f1385a5312c10594e61d454cf4a46cf"
+    },
+    {
+      "path": "results/DATA_DICTIONARY.md",
+      "bytes": 1060,
+      "sha256": "411510a05837276097b212ef0938dd92a7fce0ecb416661e8f0978e0352d29ce"
+    },
+    {
+      "path": "results/REPORT_TABLE.md",
+      "bytes": 2138,
+      "sha256": "e7d5a064c1a24d997266310afa8743b03e53e319275ca8052da2394a1963134f"
+    },
+    {
+      "path": "results/formal_results_75_runs.csv",
+      "bytes": 10866,
+      "sha256": "8c2d8c10f349b93336a92a1fcf3a479ffc6a229d4d50d63a7a4f8c73ef0f2336"
+    },
+    {
+      "path": "results/model_summary_mean_sampleSD_15_rows.csv",
+      "bytes": 2210,
+      "sha256": "03b8f152e74f15c2bc1d32e35a5b00ccb05409bb58c11661fd6e1b68b5bac81c"
+    },
+    {
+      "path": "tools/audit_local_evidence.py",
+      "bytes": 3731,
+      "sha256": "ba8ef8cca4ccab3cc5f4439a6cfc15e44557282242fea2dd440264f37489dbaa"
+    },
+    {
+      "path": "tools/verify_release.py",
+      "bytes": 5852,
+      "sha256": "5e03d5af707aa2905d8d6ab6d139d6e5f3ddfc98f45e7012f71b8e79420f98ba"
+    }
+  ]
+}

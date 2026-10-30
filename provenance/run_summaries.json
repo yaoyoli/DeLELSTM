@@ -1,0 +1,95 @@
+[
+  {
+    "dataset": "Exchange",
+    "source_run_id": "stage3a-attempt02",
+    "runtime_diagnostics": "diagnostics/stage3a/attempt-02",
+    "status": "COMPLETED",
+    "exit_code": 0,
+    "counts": {
+      "model_initializations": 25,
+      "optimizer_creations": 25,
+      "training_batches": 330000,
+      "validation_batches": 60000,
+      "test_batches": 125,
+      "forwards": 390125,
+      "losses": 330000,
+      "backwards": 330000,
+      "optimizer_step_attempts": 330000,
+      "optimizer_step_successes": 330000,
+      "epochs_completed": 7500,
+      "models_completed": 25
+    },
+    "model_order": [
+      "Delelstm",
+      "Retain",
+      "IMV_full",
+      "IMV_tensor",
+      "LSTM"
+    ],
+    "deviation_label": null,
+    "overall_numerical_stability": "UNRESOLVED",
+    "formal_summary_sha256": "378d3009020b8bca0013cbcd0c65b0bb00eee2f58f1e8bde95e4a7f94eec8a8e"
+  },
+  {
+    "dataset": "Electricity",
+    "source_run_id": "stage3b-electricity-run-01",
+    "runtime_diagnostics": "diagnostics/stage3b/electricity/run-01",
+    "status": "COMPLETED",
+    "exit_code": 0,
+    "counts": {
+      "model_initializations": 25,
+      "optimizer_creations": 25,
+      "training_batches": 87500,
+      "validation_batches": 17500,
+      "test_batches": 25,
+      "forwards": 105025,
+      "losses": 87500,
+      "backwards": 87500,
+      "optimizer_step_attempts": 87500,
+      "optimizer_step_successes": 87500,
+      "epochs_completed": 8750,
+      "models_completed": 25
+    },
+    "model_order": [
+      "Delelstm",
+      "IMV_full",
+      "IMV_tensor",
+      "Retain",
+      "LSTM"
+    ],
+    "deviation_label": null,
+    "overall_numerical_stability": "UNRESOLVED",
+    "formal_summary_sha256": "92a3234f079d20da81269b45bd295ca7b93710990d38d7e7ea2a744ce6221b92"
+  },
+  {
+    "dataset": "PM2.5",
+    "source_run_id": "stage3b-pm25-run-01",
+    "runtime_diagnostics": "diagnostics/stage3b/pm25/run-01",
+    "status": "COMPLETED",
+    "exit_code": 0,
+    "counts": {
+      "model_initializations": 25,
+      "optimizer_creations": 25,
+      "training_batches": 315000,
+      "validation_batches": 60000,
+      "test_batches": 125,
+      "forwards": 375125,
+      "losses": 315000,
+      "backwards": 315000,
+      "optimizer_step_attempts": 315000,
+      "optimizer_step_successes": 315000,
+      "epochs_completed": 7500,
+      "models_completed": 25
+    },
+    "model_order": [
+      "Delelstm",
+      "IMV_full",
+      "IMV_tensor",
+      "Retain",
+      "LSTM"
+    ],
+    "deviation_label": "Controlled Execution Deviation — Restored Five-model Comparison",
+    "overall_numerical_stability": "UNRESOLVED",
+    "formal_summary_sha256": "9b74c71167265764e1e20d4d68d28ceeb89c3a2c5766431e6887286c185e8542"
+  }
+]

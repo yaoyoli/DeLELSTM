@@ -1,0 +1,11 @@
+# Rights, attribution and publication scope
+
+The original DeLELSTM research and model/training implementation belong to their authors. Cite [Wang et al., IJCAI-23](https://doi.org/10.24963/ijcai.2023/478) and [wangcq01/DeLELSTM](https://github.com/wangcq01/DeLELSTM/tree/b9f29dbe48bd2204e5ce7edcdbbfd55f031d30a9). The upstream repository metadata reports no declared license, and the inspected source tree contains no license file (checked 2026-10-30, Asia/Hong_Kong). Public access and citation are not treated as permission to redistribute the author's source or data.
+
+This release contains project-authored external execution/observation/audit support code, project documentation, environment metadata and derived experimental metric tables. The archived code is copied from the project's external runtime and checked against historical static-review hashes; it does not include the author's model or training implementation. No new open-source license is assigned by this publication; rights in the project's own materials remain with their respective rights holders. This notice grants no additional rights over third-party code, packages, papers or datasets.
+
+The release uses an independent root commit so original source/data cannot be inherited through Git history. The existing fork's `main` and upstream history are unchanged. The local frozen research commit is referenced, not pushed. Author source, preprocessing code, PDFs and datasets are excluded, including in earlier commits of this new branch.
+
+The minimal path/model-name constants in external adapters identify the approved runtime changes; no full original entry, model, training routine or generated full-source AST/diff is redistributed. Full provenance snapshots, resolved package metadata, credentials, wheels and caches are excluded. Historical absolute `/Users/yao/` paths in byte-identical support-code and command records are retained solely as execution provenance; no login secrets are included.
+
+For a complete source-code submission beyond this support package, obtain the relevant rights/permission separately. This publication does not establish a third-party redistribution license or a fresh environment/training validation.

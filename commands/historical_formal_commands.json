@@ -1,0 +1,71 @@
+[
+  {
+    "dataset": "Exchange",
+    "source_run_id": "stage3a-attempt02",
+    "historical_record_only_do_not_rerun": true,
+    "record_sha256": "a66e2de220d31f407a9e76d5d698261102243fd5a0f7ab841d9b6cbe2b1e061d",
+    "argv": [
+      "/Users/yao/DeLELSTM-track-a-runtime/.venv/bin/python",
+      "-B",
+      "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3a/attempt-02/formal_harness.py"
+    ],
+    "cwd": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3a/attempt-02",
+    "environment_overrides": {
+      "PYTHONDONTWRITEBYTECODE": "1",
+      "PYTHONNOUSERSITE": "1",
+      "TMPDIR": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3a/attempt-02/cache/tmp",
+      "XDG_CACHE_HOME": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3a/attempt-02/cache/xdg",
+      "MPLCONFIGDIR": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3a/attempt-02/cache/matplotlib",
+      "TORCH_HOME": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3a/attempt-02/cache/torch",
+      "GIT_OPTIONAL_LOCKS": "0"
+    },
+    "no_git_write": true,
+    "one_continuous_run": true
+  },
+  {
+    "dataset": "Electricity",
+    "source_run_id": "stage3b-electricity-run-01",
+    "historical_record_only_do_not_rerun": true,
+    "record_sha256": "3e30bae0f044e7c2f5304a11b8da075114aa037f11de2c1db88211ae1b934019",
+    "argv": [
+      "/Users/yao/DeLELSTM-track-a-runtime/.venv/bin/python",
+      "-B",
+      "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/electricity/run-01/formal_harness.py"
+    ],
+    "cwd": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/electricity/run-01",
+    "environment_overrides": {
+      "PYTHONDONTWRITEBYTECODE": "1",
+      "PYTHONNOUSERSITE": "1",
+      "TMPDIR": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/electricity/run-01/cache/tmp",
+      "XDG_CACHE_HOME": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/electricity/run-01/cache/xdg",
+      "MPLCONFIGDIR": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/electricity/run-01/cache/matplotlib",
+      "TORCH_HOME": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/electricity/run-01/cache/torch",
+      "GIT_OPTIONAL_LOCKS": "0"
+    },
+    "no_git_write": true,
+    "one_continuous_run": true
+  },
+  {
+    "dataset": "PM2.5",
+    "source_run_id": "stage3b-pm25-run-01",
+    "historical_record_only_do_not_rerun": true,
+    "record_sha256": "710f868aac0b2e85c78c90f56efd5f344a4509efab6c52df1c1ee2e08f4c52cf",
+    "argv": [
+      "/Users/yao/DeLELSTM-track-a-runtime/.venv/bin/python",
+      "-B",
+      "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/pm25/run-01/formal_harness.py"
+    ],
+    "cwd": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/pm25/run-01",
+    "environment_overrides": {
+      "PYTHONDONTWRITEBYTECODE": "1",
+      "PYTHONNOUSERSITE": "1",
+      "TMPDIR": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/pm25/run-01/cache/tmp",
+      "XDG_CACHE_HOME": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/pm25/run-01/cache/xdg",
+      "MPLCONFIGDIR": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/pm25/run-01/cache/matplotlib",
+      "TORCH_HOME": "/Users/yao/DeLELSTM-track-a-runtime/diagnostics/stage3b/pm25/run-01/cache/torch",
+      "GIT_OPTIONAL_LOCKS": "0"
+    },
+    "no_git_write": true,
+    "one_continuous_run": true
+  }
+]
